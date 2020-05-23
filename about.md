@@ -3,13 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi! I'm Prabesh Subedi. My goal is to make the best use of the limited time I have here on this beautiful earth by learning continuosly and helping others learn.
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I don't use any social media sites but you can connect to me through email.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[prabesh.sb@gmail.com](mailto:email@domain.com)
