@@ -1,1 +1,0 @@
-I write about everything that interests me. Expect to find posts about philosophy, engineering, mathematics, music, personal development and etc.
